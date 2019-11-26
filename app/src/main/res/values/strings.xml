@@ -1,0 +1,211 @@
+<resources>
+    <string name="app_name">Baking Recipe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+    <string name="aboutUs">
+        This is one of the apps to let the Novice Baker to start their home and the Expert Baker can having more recipes to update themselves.
+        \n\n
+        Any Suggestion please email to:
+        \n
+        LoveBaking@gmail.com
+        \n\n
+        Data contributeAd by:
+        \n
+        www.LoveBaking.com.my
+    </string>
+
+
+    <!-- Bread -->
+    <string name="chocolateChipBread">Chocolate Chip Banana Bread</string>
+    <string name="chocolateChipBananaBread">
+
+        Ingredients\n
+        1/4 cup butter, softened\n
+        1 cup sugar\n
+        1 large egg, room temperature\n
+        3 medium ripe bananas, mashed (about 1-1/4 cups)\n
+        1 teaspoon vanilla extract\n
+        2 cups all-purpose flour\n
+        1 teaspoon baking soda\n
+        1/2 teaspoon salt\n
+        1 cup semisweet chocolate chips, divided\n
+        \n
+        Direction\n
+        1. Preheat oven to 350°. In a large bowl, beat butter and sugar until crumbly. Beat in egg, bananas and vanilla. In another bowl, whisk flour, baking soda and salt; gradually beat into banana mixture. Stir in 1/2 cup chocolate chips.\n
+        2. Transfer to a greased 10-in. cast-iron or other ovenproof skillet; sprinkle with remaining 1/2 cup chocolate chips. Bake until a toothpick inserted in center comes out clean, 25-30 minutes. Cool in pan on a wire rack.\n\n
+        Nutrition Facts\n
+        1 slice: 330 calories, 10g fat (6g saturated fat), 31mg cholesterol, 290mg sodium, 58g\n
+        carbohydrate (34g sugars, 3g fiber), 4g protein.\n
+
+    </string>
+
+
+    <string name="garlicBread">Garlic Bread</string>
+    <string name="garlicBreadContent">
+
+
+        Ingredients\n
+        1/2 cup butter, melted\n
+        3 to 4 garlic cloves, minced\n
+        1 loaf (1 pound) French bread, halved lengthwise\n
+        2 tablespoons minced fresh parsley\n
+        \n
+        Directions\n
+        1. In a small bowl, combine butter and garlic. Brush over cut sides of bread; sprinkle with parsley. Place, cut side up, on a baking sheet.\n
+        2. Bake at 350° for 8 minutes. Broil 4-6 in. from the heat for 2 minutes or until golden brown. Cut into 2-in. slices. Serve warm.\n\n
+        Nutrition Facts\n
+        1 piece: 258 calories, 13g fat (7g saturated fat), 31mg cholesterol, 462mg sodium, 30g carbohydrate (1g sugars, 2g fiber), 5g protein.\n
+
+    </string>
+
+
+    <string name="irishSodaBread">Irish Soda Bread</string>
+    <string name="irishSodaBreadContent">
+    Ingredients\n
+    3 cups all-purpose flour\n
+    2/3 cup sugar\n
+    3 teaspoons baking powder\n
+    1 teaspoon salt\n
+    1 teaspoon baking soda\n
+    1 cup raisins\n
+    2 large eggs, room temperature, beaten\n
+    1-1/2 cups buttermilk\n
+    1 tablespoon canola oil\n
+        \n
+    Directions\n
+    1. Preheat oven to 350°. In a large bowl, combine first five ingredients. Stir in raisins. Set aside 1 tablespoon beaten egg. In a bowl, combine buttermilk, oil and remaining eggs; stir into flour mixture just until moistened (dough will be sticky). Transfer to a greased 9-in. round baking pan; brush top with reserved egg.\n\n
+    2. Bake 45-50 minutes or until a toothpick inserted in the center comes out clean. Cool 10 minutes before removing from pan to a wire rack to cool. Cut into wedges.\n
+    \nNutrition Facts\n
+    1 wedge: 227 calories, 3g fat (1g saturated fat), 36mg cholesterol, 447mg sodium, 46g carbohydrate (20g sugars, 1g fiber), 6g protein.\n
+
+    </string>
+
+
+    <string name="cheesyGarlicBreadMeatballRing">Cheesy Garlic Bread Meatball Ring</string>
+    <string name="cheesyGarlicBreadMeatballRingContent">
+
+        Ingredients \n(For 8 servings)\n\n
+
+        1 lb ground beef (455 g)\n
+        1 egg\n
+        ¼ cup bread crumbs (30 g)\n
+        4 tablespoons Chopped fresh parsley, divided\n
+        ½ tablespoon salt\n
+        ½ tablespoon pepper\n
+        1 batch pizza dough\n
+        1 cup marinara sauce (260 g), plus more for serving\n
+        1 cup shredded mozzarella cheese (100 g)\n
+        ¼ cup butter, melted\n
+        2 cloves garlic, minced\n
+        2 tablespoons grated parmesan cheese\n
+        \n
+        Directions\n
+        1. In a medium bowl, combine the ground beef, egg, bread crumbs, 2 tablespoons of parsley, salt, and pepper. Mix well.\n
+        2. Pinch off a ball of the mixture, roll between your hands to make ping pong ball-sized meatball. Repeat with the rest of the meat.\n
+        3. In a large pan, cook the meatballs over medium heat, turning to brown each side. Remove from heat and drain on a paper towel.\n
+        4. Preheat oven to 350°F (180˚C).\n
+        5. Pinch off a portion of pizza dough and, with your hands or a rolling pin, flatten out and top with a tablespoon of marinara sauce and mozzarella cheese. Add a meatball and wrap the dough over, pinching at the seams to close. Repeat with the remaining ingredients.\n
+        6. Arrange the balls in a circle, seam-side down, in a large cast-iron skillet.\n
+        7. Mix the melted butter with the garlic, remaining 2 tablespoons of parsley, and the Parmesan. Brush the balls with the garlic butter mixture.\n
+        8. Bake for 20 minutes, or until golden brown. Let cool for 5-10 minutes.\n
+        9. Place a bowl of warm marinara sauce in the middle of the skillet, then serve.\n
+
+    </string>
+
+
+    <string name="chickenParmesanStuffedGarlicBread">Chicken Parmesan-Stuffed Garlic Bread</string>
+    <string name="chickenParmesanStuffedGarlicBreadContent">
+
+        Ingredients\n
+        (For 3 servings)\n\n
+
+        1 boneless, skinless chicken breast\n
+        2 cups flour (250 g)\n
+        4 eggs, beaten\n
+        2 cups seasoned breadcrumb (230 g)\n
+        1 cup oil (240 mL), for frying\n
+        1 large baguette\n
+        10 slices mozzarella cheese\n
+        marinara sauce\n\n
+        GARLIC BUTTER\n
+
+        ⅓ cup butter (75 g), melted\n
+        3 cloves garlic, minced\n
+        1 tablespoon fresh parsley, chopped\n
+        1 tablespoon grated parmesan cheese\n\n
+
+        Directions\n
+        1. Slice the chicken breast into ½ inch (1 ¼ cm) thick strips.\n
+        2. Place the flour, eggs, and bread crumbs into 3 separate bowls.\n
+        3. Roll a chicken strip in the flour, dusting off excess. Dip the strip into the egg, then place into the bread crumbs, coating it completely.\n
+        4. Repeat with the remaining chicken.\n
+        5. Heat the oil in a pan over medium heat to 350˚F (180˚C).\n
+        6. Preheat oven to 350°F (180˚C).\n
+        7. Fry the breaded chicken strips until both sides are golden brown.\n
+        8. Remove from heat and drain on a paper towel.\n
+        9. Slice the baguette into thirds or fourths (each baguette piece should be roughly the same length of the fried chicken strips).\n
+        10. Hollow out the insides of the baguette pieces with a knife.\n
+        11. Lay two slices of mozzarella on top of each other with a 1 inch (2 ½ cm) overlap. Place a chicken strip on the overlapping region, then fold the mozzarella tightly around the chicken.\n
+        12. Push the rolled chicken strips into a baguette piece.\n
+        13. Slice the stuffed baguette pieces into 1 inch (2 ½ cm) slices, then place them tightly side-by-side on a baking sheet lined with foil.\n
+        14. In a small bowl, mix together ingredients for garlic butter.\n
+        15. Brush the garlic butter evenly over the baguette slices, making sure some drips in between the slices.\n
+        16. Wrap the foil over the re-assembled baguette and bake for 20–25 minutes, until cheese is melted and the top is starting to brown.\n
+        17. Remove the foil and serve with marinara!\n
+        18. Nutrition Calories: 2689 Fat: 170 grams Carbs: 221 grams Fiber: 12 grams Sugars: 17 grams Protein: 67 grams\n
+
+    </string>
+
+
+    <!-- pie -->
+    <string name="strawberryRhubarbPie">Strawberry Rhubarb Pie</string>
+    <string name="strawberryRhubarbPieContent">
+        
+        Ingredients\n
+        (For 6 servings)\n\n
+
+        3 cups rhubarb (300 g), chopped\n
+        3 cups strawberry (450 g), quartered\n
+        1 cup sugar (200 g)\n
+        ¼ cup cornstarch (30 g)\n
+        ¼ teaspoon salt\n
+        1 package pie dough\n
+        whipped cream, to garnish\n\n
+
+        Directions\n
+        1. In a large bowl, toss the strawberries and rhubarb with the sugar, salt, and cornstarch. Set to the side.\n
+        2. Line a pie tin with the pie dough.\n
+        3. Preheat the oven to 375°F (190°C).\n
+        4. Empty rhubarb and strawberry mixture into the pie tin, evenly distributing the mixture.\n
+        5. Cut pie dough into strips and weave a lattice design on top of the pie. (You can also top with more pie dough in a full sheet with slits.)\n
+        6. Bake the pie until the filling is bubbling and the crust is golden brown, about 2 hours. Cover the edge of the pie with foil if it begins to darken.\n
+        7. Let cool slightly before serving.\n
+        
+    </string>
+
+
+</resources>

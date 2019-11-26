@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bakingrecipe">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/baker"
+        android:label="Baking Recipe"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Main2Activity"></activity>
+        <activity android:name=".History" />
+        <activity
+            android:name=".LoginActivity"
+            android:icon="@drawable/baker"
+            android:label="Baking Recipe"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BreadList"
+            android:label="Bread List"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PieList"
+            android:label="Pie List"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ui.Bread.ChocolateChipBananaBread"
+            android:label="Chocolate Chip Banana Bread"
+            android:parentActivityName=".BreadList" />
+        <activity
+            android:name=".ui.Bread.IrishSodaBread"
+            android:label="@string/irishSodaBread"
+            android:parentActivityName=".BreadList" />
+        <activity
+            android:name=".ui.Bread.GarlicBread"
+            android:label="@string/garlicBread"
+            android:parentActivityName=".BreadList" />
+        <activity
+            android:name=".ui.Bread.CheesyGarlicBreadMeatballRing"
+            android:label="@string/cheesyGarlicBreadMeatballRing"
+            android:parentActivityName=".BreadList" />
+        <activity
+            android:name=".ui.Bread.ChickenParmesanStuffedGarlicBread"
+            android:label="@string/chickenParmesanStuffedGarlicBread"
+            android:parentActivityName=".BreadList" />
+        <activity
+            android:name=".ui.Pie.StrawberryRhubarbPie"
+            android:label="@string/strawberryRhubarbPie"
+            android:parentActivityName=".PieList" />
+    </application>
+
+</manifest>
